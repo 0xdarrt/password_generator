@@ -1,0 +1,20 @@
+# My Python Project
+
+## Description
+This is a simple tool I built to practice Python and Git. It does [describe what your script does here].
+
+## How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/0xdarrt/my-new-project.git
+
+
+2. Set up The Environment
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt  # (Only if you have requirements)
+
+3. Run The Script
+python3 script.py
+
